@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import './anmimations/App.css';
 import brainteaser from '../assets/UPC-events/Brain-Teaser.jpg';
 import hackthon from '../assets/UPC-events/Hackathon-2025.png';
-import industrial from '../assets/UPC-events/industrial-Visit.png';
+import industrial from '../assets/UPC-events/Industrial-Visit.png';
 import Invitedtalk from '../assets/UPC-events/Invited-Talk-on-Recent-Trends-in-Cyber-Security.png';
 import Devops from '../assets/UPC-events/Invited-Talk-on-Recent-Trendsi-n-DevOps.png';
 import os from '../assets/UPC-events/OS-building-Workshop.jpg';
