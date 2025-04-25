@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faLinkedin } from '@fortawesome/free-brands-svg-icons';
-import PavanSir from '../assets/team/Pavan-sir.png';
+import PavanSir from '../assets/team/pavan-sir.png';
 import abhilash from '../assets/team/Abhilash.jpg';
 import Abhitha from '../assets/team/Abhitha.jpg';
 import Amrutha from '../assets/team/amrutha .jpg';
