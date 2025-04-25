@@ -12,7 +12,7 @@ import anusha from '../assets/team/Anusha .jpg';
 import anushree from '../assets/team/Anushree.jpg';
 import apeksha from '../assets/team/Apeksha.jpg';
 import chethen from '../assets/team/ChetanKumar.jpg';
-import kountheya from '../assets/team/Kountheya.jpg';
+import kountheya from '../assets/team/KOUNTHEYA.jpg';
 import manu from '../assets/team/manu.jpg';
 import preetham from '../assets/team/Preetham.jpg';
 import sindhu from '../assets/team/Sindhu.jpeg';
