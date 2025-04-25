@@ -1,18 +1,18 @@
 import React, { useState } from 'react';
-import brainteaser from '../assets/UPC-events/Brain Teaser.jpg';
-import hackthon from '../assets/UPC-events/Hackathon 2025.png';
-import industrial from '../assets/UPC-events/industrial Visit.png';
-import Invitedtalk from '../assets/UPC-events/Invited Talk on Recent Trends in Cyber Security.png';
-import Devops from '../assets/UPC-events/Invited Talk on Recent Trends in DevOps.png';
-import os from '../assets/UPC-events/OS building Workshop.jpg';
-import software from '../assets/UPC-events/Software Hackathon.png';
-import speed from '../assets/UPC-events/Speed Programming.jpeg';
-import techtalk from '../assets/UPC-events/Tech Talk 2025.png';
+import brainteaser from '../assets/UPC-events/Brain-Teaser.jpg';
+import hackthon from '../assets/UPC-events/Hackathon-2025.png';
+import industrial from '../assets/UPC-events/industrial-Visit.png';
+import Invitedtalk from '../assets/UPC-events/Invited-Talk-on-Recent-Trends-in-Cyber-Security.png';
+import Devops from '../assets/UPC-events/Invited-Talk-on-Recent-Trendsi-n-DevOps.png';
+import os from '../assets/UPC-events/OS-building-Workshop.jpg';
+import software from '../assets/UPC-events/Software-Hackathon.png';
+import speed from '../assets/UPC-events/Speed-Programming.jpeg';
+import techtalk from '../assets/UPC-events/Tech-Talk-2025.png';
 import uiux from '../assets/UPC-events/uiux.png';
-import wordblitz from '../assets/UPC-events/Word Blitz.jpg';
-import blender from '../assets/UPC-events/Workshop on Blender Software.jpeg';
+import wordblitz from '../assets/UPC-events/Word-Blitz.jpg';
+import blender from '../assets/UPC-events/Workshop-on-Blender-Software.jpeg';
 import designingtool from '../assets/UPC-events/Workshop on Designing tools.jpeg';
-import Genaiandml from '../assets/UPC-events/Workshop on Generative AI And ML.jpeg';
+import Genaiandml from '../assets/UPC-events/Workshop-on-Generative-AI-And-ML.jpeg';
 const PreviousEvents = () => {
     const [selectedEvent, setSelectedEvent] = useState(null);
 
