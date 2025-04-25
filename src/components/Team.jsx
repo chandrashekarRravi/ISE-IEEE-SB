@@ -17,7 +17,7 @@ import manu from '../assets/team/manu.jpg';
 import preetham from '../assets/team/Preetham.jpg';
 import sindhu from '../assets/team/Sindhu.jpeg';
 import siri from '../assets/team/Siri.jpg';
-import sowjanya from '../assets/team/Sowjanya.jpg';
+import sowjanya from '../assets/team/sowjanya.jpg';
 import subramanya from '../assets/team/Subramanya.jpg';
 import sushma from '../assets/team/Sushma.jpeg';
 import tarun from '../assets/team/TarunDR.jpeg';
